@@ -3,6 +3,7 @@
 #include <stdlib.h>
 #include <time.h>
 #include <ctime>
+#include<math.h>
 using namespace std;
 
 class Words
