@@ -18,9 +18,7 @@ private:
     string* choices;
 
 public:
-    Words()
-    {
-    }
+   
 
     Words(int min, int max)
 
