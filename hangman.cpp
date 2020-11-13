@@ -4,6 +4,7 @@
 #include <time.h>
 #include <ctime>
 #include<math.h>
+#include<
 using namespace std;
 
 class Words
